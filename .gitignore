@@ -1,0 +1,9 @@
+.venv/
+sam2/
+outputs/
+inputs/
+datasets/
+*.log
+__pycache__/
+*.py[cod]
+
